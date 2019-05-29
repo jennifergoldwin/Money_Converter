@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Money Changer</string>
+    <string name="change"><![CDATA[<->]]></string>
+</resources>
